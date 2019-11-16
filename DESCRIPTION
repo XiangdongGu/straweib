@@ -11,4 +11,6 @@ Description: The main function is icweib, which fits a stratified Weibull
     so that it allows a stratum-specific baseline hazard function, but where the
     effects of other covariates are assumed to be constant across strata.
 License: GPL (>= 2)
-RoxygenNote: 5.0.1
+RoxygenNote: 6.1.1
+Encoding: UTF-8
+
