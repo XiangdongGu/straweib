@@ -33,4 +33,3 @@ for interval-censored data and their implementation in R.
 \emph{Statistical Modeling} 9(4), 259
 }
 \keyword{datasets}
-

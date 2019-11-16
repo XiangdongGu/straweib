@@ -52,4 +52,3 @@ surv <- plot(fit, Z = 1, tRange = c(1, 7), tEst=1:7, xlab = "Time", ylab = "Surv
 \seealso{
 \code{\link{icweib}} \code{\link{plot}}
 }
-

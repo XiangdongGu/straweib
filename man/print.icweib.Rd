@@ -22,4 +22,3 @@ fit <- icweib(L = left, R = right, data = tooth24, strata = dmf, covariates = ~s
 fit
 
 }
-

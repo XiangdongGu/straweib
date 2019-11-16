@@ -52,4 +52,3 @@ HRatio(fit, times = 1:7, NumStra = 0, NumZ=0, DemStra = 1, DemZ=0)
 \seealso{
 \code{\link{icweib}}, \code{\link{plot}}
 }
-

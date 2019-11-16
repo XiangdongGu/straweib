@@ -102,4 +102,3 @@ Second Edition}, Texts in statistical science. Taylor & Francis.
 \seealso{
 \code{\link{HRatio}}, \code{\link{plot.icweib}}
 }
-

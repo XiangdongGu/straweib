@@ -30,4 +30,3 @@ see \code{\link{icweib}} for details on how to set \emph{L} and
  \emph{R} for different types of events.
 }
 \keyword{datasets}
-

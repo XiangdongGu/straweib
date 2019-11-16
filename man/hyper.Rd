@@ -36,4 +36,3 @@ Collett, D. (2003). \emph{Modelling Survival Data in Medical
  Research, Second Edition}, Texts in statistical science. Taylor & Francis.
 }
 \keyword{datasets}
-
