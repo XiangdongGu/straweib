@@ -2,7 +2,7 @@ Package: straweib
 Type: Package
 Title: Stratified Weibull Regression Model
 Version: 1.1
-Date: 2013-01-02
+Date: 2019-11-17
 Author: Xiangdong Gu and Raji Balasubramanian
 Maintainer: Xiangdong Gu <ustcgxd@gmail.com>
 Description: The main function is icweib, which fits a stratified Weibull
