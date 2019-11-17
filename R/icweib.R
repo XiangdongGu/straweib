@@ -86,6 +86,9 @@
 #' ## Stratified on nephrectomy, and age group as explanatory variable
 #' fit1 <- icweib(L = left, R = right, data = hyper, strata = nephrectomy, covariates = ~factor(age))
 #'
+#' @importFrom stats complete.cases model.frame model.matrix na.pass optim
+#' pchisq pnorm
+#'
 #'@export
 #'
 

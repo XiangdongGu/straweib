@@ -28,6 +28,8 @@
 #'
 #' @seealso \code{\link{icweib}} \code{\link{plot}}
 #'
+#' @importFrom graphics legend lines plot
+#'
 #' @export
 #'
 #' @examples

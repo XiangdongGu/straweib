@@ -30,6 +30,8 @@
 #'
 #' @seealso \code{\link{icweib}}, \code{\link{plot}}
 #'
+#' @importFrom stats qnorm
+#'
 #' @examples
 #' data(tooth24)
 #' fit <- icweib(L = left, R = right, data = tooth24,
